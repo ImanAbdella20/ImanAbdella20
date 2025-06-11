@@ -20,7 +20,7 @@ I'm committed to **clean code**, **performance optimization**, and **continuous 
 - **Languages:** JavaScript, C++, PHP, HTML, CSS
 - **Frameworks/Libraries:** React.js, Next.js, Node.js, Tailwind CSS
 - **Databases:** MongoDB, Firebase
-- **Other:** Responsive Design, Performance Optimization, UI/UX Best Practices
+- **Other:** Responsive Design, Performance Optimization.
 
 ---
 
