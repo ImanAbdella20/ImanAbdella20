@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate web developer with expertise in building responsive, user-friendly websites and applications. With a strong foundation in front-end technologies like **HTML, CSS, JavaScript**, and modern frameworks (**React**, **Next.js**), as well as back-end skills (**Node.js**), I love turning ideas into functional, elegant digital experiences.
+I'm a passionate web developer with expertise in building responsive, user-friendly websites and applications. With a strong foundation in front-end technologies like **HTML, CSS, JavaScript**, and modern frameworks (**React**, **Next.js**), as well as back-end skills (**Node.js**,**Golang**), I love turning ideas into functional, elegant digital experiences.
 
 I'm committed to **clean code**, **performance optimization**, and **continuous learning**. I thrive on solving problems and creating seamless interactions for users.
 
@@ -32,6 +32,7 @@ I'm committed to **clean code**, **performance optimization**, and **continuous 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
